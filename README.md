@@ -1,6 +1,7 @@
+**DPO: Direct Preference Optimization**
+
 GROUP 6: 1) Anish Jain (2022077)
          2) Anmol Adarsh Kumar (2022081)
-**DPO: Direct Preference Optimization**
 
 
 This repository provides a reference implementation of the DPO algorithm for training language models from preference data, as described in Direct Preference Optimization: Your Language Model is Secretly a Reward Model. It supports both DPO and its variants like Conservative DPO and IPO.
